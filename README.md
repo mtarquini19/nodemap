@@ -1,4 +1,5 @@
 # nodemap
+* [link to deployed page](https://mtarquini19.github.io/nodemap/)
 
 ## Objective
 * analyze the html document provide
